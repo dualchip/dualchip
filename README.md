@@ -6,7 +6,7 @@
   <br>
 </p>
   <p>
-    Work in progress. Sign my <a href="https://consequence.atabook.org">atabook</a> alright..
+    Inactive as of late. Feel free to leave a message on my <a href="https://consequence.atabook.org">atabook</a>
   </p>
   
 </div>
